@@ -1,0 +1,10 @@
+## Navigation
+pwd
+ls
+cd
+mkdir
+touch
+cat
+cp
+mv
+rm
