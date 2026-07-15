@@ -1,14 +1,4 @@
 ## Navigation
-pwd
-ls
-cd
-mkdir
-touch
-cat
-cp
-mv
-rm
--i
 --------------------------------------------------------------------------------------------------
 Command	          Meaning
 ls		          List
@@ -47,3 +37,17 @@ Owner = First three permissions
 Group = Middle three permissions
 
 Others = Last three permissions
+
+--------------------------------------------------------------------------------------------------
+
+whoami          Show current username
+
+id              Show user ID and groups
+
+groups          Show the groups you belong to
+
+echo $HOME      Show your home directory
+
+echo $USER      Show current username
+
+sudo command    Run a command as administrator
