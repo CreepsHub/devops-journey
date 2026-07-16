@@ -51,3 +51,18 @@ echo $HOME      Show your home directory
 echo $USER      Show current username
 
 sudo command    Run a command as administrator
+
+-------------------------------------------------------------------------------------------------
+ps          Show running processes
+
+ps -e       Show all processes
+
+top         Live process monitor
+
+jobs        Show background jobs
+
+bg          Continue a job in the background
+
+kill PID    Stop a process
+
+CTRL + Z    Pause the current process
